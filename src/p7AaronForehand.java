@@ -49,5 +49,4 @@ public class p7AaronForehand {
         System.out.print(array[u] + ", ");
         System.out.print("]");
     }
-          
 }
